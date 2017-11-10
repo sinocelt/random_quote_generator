@@ -1,8 +1,3 @@
-#This project was created by Justin Barry at github.com/sinocelt
-#It is released under the GPLv3 license
-#You are free to copy it, modify it, and/or share it
-#Please give credit to Justin Barry
-
 This is a project that randomly chooses quotes which then allows you to Tweet them.
 
 Make sure that you put the files: 
